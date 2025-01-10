@@ -12,7 +12,7 @@
 
 .background1 {
     width: 100%;
-    background-image: url("/Images/header-background.jpg");
+    background-image: url("Images/header-background.jpg");
     height: 100vh;
 }
 
